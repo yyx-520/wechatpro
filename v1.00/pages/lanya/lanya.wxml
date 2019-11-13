@@ -1,0 +1,11 @@
+<view class="content">
+<button type='primary' class='button'   bindtap='openadapter'>打开蓝牙适配器</button>
+<button type='primary' class='button'  bindtap='closeadapter'>关闭适配器
+</button>
+<button type='primary' class='button' bindtap='connecteddevice'>连接脑电采集系统</button>
+<button type='primary' class='button'bindtap='getconnecteddevice'>获取已连接系统</button>
+<button type='primary' class='button' bindtap='startread'>读取脑电数据</button>
+<button type='primary' class='button' bindtap='startnotify'>开启notify功能</button>
+<button type='primary' class='button' bindtap='startwrite'>向设备发送指令</button>
+<button type='primary' class='button' bindtap='bindViewTap'>进入控制模式</button>
+</view>

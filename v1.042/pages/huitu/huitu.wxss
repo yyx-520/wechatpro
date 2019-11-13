@@ -1,0 +1,20 @@
+.content {
+margin: 0 10px;
+}
+.canvas1 {
+  width:1000px;
+  height:320px;
+  background-color: #808080;
+}
+.canvas2 {
+  margin-top: 25px;
+  width:1000px;
+  height: 320px;
+  background-color: #808080;
+}
+.button {
+margin: 10px;
+}
+page{
+background-color:#808080
+}

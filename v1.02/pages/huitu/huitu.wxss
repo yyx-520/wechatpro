@@ -1,0 +1,10 @@
+.content {
+margin: 0 10px;
+}
+ 
+.button {
+margin: 10px;
+}
+page{
+background-color:#808080
+}

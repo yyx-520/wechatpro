@@ -1,0 +1,16 @@
+.content {
+margin: 10 10px;
+}
+ 
+.button {
+margin: 40px;
+}/* pages/kongzhims/kongzhims.wxss */
+
+.section{
+
+margin-left: 40px;
+
+}
+page{
+background-color:#808080
+}

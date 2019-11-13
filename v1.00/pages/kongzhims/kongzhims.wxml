@@ -1,0 +1,19 @@
+<view class="content">
+<button type='primary' class='button' bindtap='bihuang'>开启闭环模式</button>
+<button type='primary' class='button' bindtap='caiji'>开启连续采集模式</button>
+<view class="section">
+  <input  bindinput="bindKeyInput1" placeholder-style="color:blue"  placeholder="请输入电流方向（0（阴）/1(阳)）:"/>
+</view>
+<button type='primary' class='button' bindtap='dcji'>进入选择的模式</button>
+<view class="sections">
+  <input  bindinput="bindKeyInput2" placeholder-style="color:blue" placeholder="请选择波形（0（正弦波）/1(方波)2(三角波)/3(脉冲波)）："/>
+</view>
+<button type='primary' class='button' bindtap='bx'>开启电刺激并载入选择波形</button>
+<view class="section">
+  <input  bindinput="bindKeyInput3"  placeholder-style="color:blue"
+  placeholder="请输入0-255Hz："/>
+</view>
+<button type='primary' class='button' bindtap='gcj'>开启光刺激并载入刺激频率</button>
+<button type='primary' class='button' bindtap='test1'>载入脑电数据</button><button type='primary' class='button' bindtap='test2'>载入陀螺仪数据</button>
+</view>
+

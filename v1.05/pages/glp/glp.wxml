@@ -1,0 +1,4 @@
+<view class="content">
+<canvas style="width: 1000px; height: 310px;" canvas-id="naodian"></canvas>
+<button type='primary' class='button1' bindtap='zhanting'>暂停/继续</button>
+</view>

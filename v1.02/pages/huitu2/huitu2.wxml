@@ -1,0 +1,6 @@
+<view class="content">
+<canvas style="width: 1000px; height: 310px;" canvas-id="naodian"></canvas>
+<button type='primary' class='button' bindtap='zhanting'>暂停/继续</button>
+<button type='primary' class='button' bindtap='jietu'>截图</button>
+<button type='primary' class='button' bindtap='kongzhi'>进入控制模式</button>
+</view>
